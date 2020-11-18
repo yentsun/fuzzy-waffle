@@ -16,7 +16,6 @@ const username = 'developertest@affluent.io';
 const [ , , dbPassword, userPassword ] = process.argv;
 
 async function main() {
-    // const [ rows, fields ] = await connection.execute('SELECT * FROM `table` WHERE `name` = ? AND `age` > ?', ['Morty', 14]);
 
     console.log('> launching puppeteer');
     const browser = await puppeteer.launch();

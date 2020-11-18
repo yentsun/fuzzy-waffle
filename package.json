@@ -15,11 +15,16 @@
   ],
   "author": "Maksim Korinets",
   "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": "14.15.0"
+  },
   "bugs": {
     "url": "https://github.com/yentsun/fuzzy-waffle/issues"
   },
   "homepage": "https://github.com/yentsun/fuzzy-waffle#readme",
   "dependencies": {
+    "mysql2": "^2.2.5",
     "puppeteer": "^5.5.0"
   }
 }

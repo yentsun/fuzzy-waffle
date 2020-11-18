@@ -1,0 +1,25 @@
+{
+  "name": "fuzzy-waffle",
+  "version": "0.0.0",
+  "description": "A puppeteer hands on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yentsun/fuzzy-waffle.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Maksim Korinets",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yentsun/fuzzy-waffle/issues"
+  },
+  "homepage": "https://github.com/yentsun/fuzzy-waffle#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
